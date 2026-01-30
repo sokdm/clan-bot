@@ -4,7 +4,8 @@
   "description": "WhatsApp clan admin bot",
   "main": "index.js",
   "dependencies": {
-    "baileys": "^6.7.5",
-    "pino": "^8.8.0"
+    "@whiskeysockets/baileys": "^6.7.5",
+    "baileys": "^7.0.0-rc.9",
+    "pino": "^8.21.0"
   }
 }
